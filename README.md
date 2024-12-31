@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aylenemh
-- 👀 I’m interested in quality control, data science & analytics 
+- 👀 I’m interested in machine learning, data science & analytics 
 - 🌱 I’m currently learning RISC-V, Python & Java 
 - 📫 How to reach me: aylenemhernandez@gmail.com
 - 😄 Pronouns: she/her
