@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aylenemh
 - 👀 I’m interested in machine learning, data science & analytics 
-- 🌱 I’m currently learning C, Python & Java 
+- 🌱 I’m currently learning CSS, JavaScript and HTML
 - 📫 How to reach me: aylenemhernandez@gmail.com
 - 😄 Pronouns: she/her
 
